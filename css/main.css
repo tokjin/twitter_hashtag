@@ -1,0 +1,46 @@
+@font-face{ 
+    font-family: 'GenJyuuGothic';
+    src: url("../font/GenJyuuGothicL-Heavy.woff") format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+    font-family: GenJyuuGothic;
+}
+
+.banner-image {
+    width: 100%;
+    position: fixed;
+    display: block;
+}
+
+#banner-background {
+    z-index: 1;
+}
+
+#banner-frame {
+    z-index: 3;
+}
+
+#twitter-feeder-tag {
+    position: fixed;
+    z-index: 4;
+    font-size: 58px;
+    left: 130px;
+    top: 54px;
+    color: white;
+}
+
+#twitter-feeder-text {
+    z-index: 2;
+    position: fixed;
+    font-size: 51px;
+    left: 460px;
+    top: 58px;
+    white-space: nowrap;
+}
+
+#twitter-feeder-area {
+    display: none;
+}
