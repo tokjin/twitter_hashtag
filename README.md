@@ -1,9 +1,9 @@
 # Twitterハッシュタグ速報（OBS対応）
 
 ### これは何か
-![output](https://user-images.githubusercontent.com/41167277/83230159-3c90b580-a1c4-11ea-8564-c69cb0d0ddcd.gif)
-Twitterを自動で巡回し、指定のハッシュタグでのつぶやきを速報で画面に表示します。
-OBSにブラウザソースとして追加することで、生放送の画面に表示することもできます。
+![output](https://user-images.githubusercontent.com/41167277/83230159-3c90b580-a1c4-11ea-8564-c69cb0d0ddcd.gif)  
+Twitterを自動で巡回し、指定のハッシュタグでのつぶやきを速報で画面に表示します。  
+OBSにブラウザソースとして追加することで、生放送の画面に表示することもできます。  
 
 ### 設定方法
 * TwitterのAPIを使用するので、Twitter Developerに登録しAPIを取得しておく。
