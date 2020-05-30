@@ -14,4 +14,5 @@ OBSにブラウザソースとして追加することで、生放送の画面�
 * APIの制限があるので、巡回は7秒に1回。プレビューウィンドウなどで二重にアクセスしてしまうと制限がかかる可能性あるので注意。
 
 ### 問い合わせ
-[Twitter](https://twitter.com/jintokai)までお願いします。
+[こちらのブログ](https://tokaisodachi.com/archives/2312)で簡単に解説しています。
+お問い合わせは、[Twitter](https://twitter.com/jintokai)までお願いします。
